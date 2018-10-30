@@ -1,0 +1,8 @@
+{
+  "name": "adminv2-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@gitee.com:samtao/adminv2-fe.git",
+  "author": "samtao <tsmaq@163.com>",
+  "license": "MIT"
+}
